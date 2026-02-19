@@ -1,1 +1,1 @@
-React-3.1-Tailwind-css ni ulash va ishlatishni 
+React-3.1-Tailwind-css ni ulash va ishlatishni organishingiz
